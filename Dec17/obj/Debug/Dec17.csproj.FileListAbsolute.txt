@@ -1,5 +1,0 @@
-C:\code\AdventOfCode\Dec17\bin\Debug\Dec17.exe.config
-C:\code\AdventOfCode\Dec17\bin\Debug\Dec17.exe
-C:\code\AdventOfCode\Dec17\bin\Debug\Dec17.pdb
-C:\code\AdventOfCode\Dec17\obj\Debug\Dec17.exe
-C:\code\AdventOfCode\Dec17\obj\Debug\Dec17.pdb

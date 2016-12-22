@@ -1,6 +1,0 @@
-C:\code\AdventOfCode\Dec17\obj\Debug\Dec20.csprojResolveAssemblyReference.cache
-C:\code\AdventOfCode\Dec17\bin\Debug\Dec20.exe.config
-C:\code\AdventOfCode\Dec17\bin\Debug\Dec20.exe
-C:\code\AdventOfCode\Dec17\bin\Debug\Dec20.pdb
-C:\code\AdventOfCode\Dec17\obj\Debug\Dec20.exe
-C:\code\AdventOfCode\Dec17\obj\Debug\Dec20.pdb
